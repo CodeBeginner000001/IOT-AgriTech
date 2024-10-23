@@ -7,5 +7,45 @@
 5. Integration of hardware and software (we are able to see the data from the device on website)
 6. Send the website data to our hardware and change the initial reading of the hardware.
 
+-----> Features <-------
 
------> Phase 2 <-------
+Software base hoga idea and feature
+
+1. AI/Ml through camera jo ki phone camera hoga and website sa run karaga initial.
+Then mobile app build karenga. (Image processing)(speech processing)
+ -> click karna photo ko and then upload karka
+Like click a photo of the plant from phone and then upload on website and check for the problem and as well as it solution which can be through scientific aur ancient technique (home remedies). Tell the user about the problem as well as its solution.
+Subscription based bana sakta with low cost . Guarantee da sakta hai about the solution percentage wise as well as review rating.
+
+Photo add karna ka baad question add karna so that filtration ma help mil jayega solution ka.
+Can speak to add question.
+
+Profit to do such thing
+-> capture hum vo market jo hardware afford nhi kar sakta ya fir usko hardware nhi chahiye.
+-> office population as well as farm people ko bhi target kar sakta hai.
+-> hardware cost reduce 
+-> product variety 
+-> fertiliser try kar sakta bana and recommendation bana daga.
+-> Data collection about the plant jisko hum use kar sakta hai and sell kar sakta hai.
+
+What to do for Costumer retention.
+-> Coin ya fir reward based system rakhna hoga initial stage jisko vo subscription buy karna ka liye use kar sakta hai. 
+-> Har review rating kuch aur points.
+
+2. Chatbot add kar hai (Future Prospective)
+3. Market store product (Future prospective)
+
+
+
+Hardware based idea and features
+
+1. Now what we have added (Urban)
+-> Soil Moisture sensor , Temperature and humidity sensor , motor for water pumping. (Single piece).
+Node based rakhna hai * 1 bana hai.
+
+
+Now ma jo rural ka liye bana ga 
+-> 6 x Soil moisture sensor kar karna hai then pipes for water pumping and whole system ground ma submerge hoga.
+-> wind direction sensing module(Too Costly) and rain detection.
+-> Bi-direction water pump.(to check if exists for not and possible aur not).
+-> adding soil sensor for sensing the ph value and agriculture. (Too costly).
